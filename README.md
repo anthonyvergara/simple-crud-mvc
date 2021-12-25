@@ -1,2 +1,2 @@
 # simple-crud-mvc
-Projeto para aperfeiçoamento nos estudos.
+Projeto simples desenvolvido em Java com foco no aperfeiçoamento dos estudos.
